@@ -2,7 +2,7 @@
 
 > This is an proof of concept and very much a work in progress.
 
-Exploring strategies to _smooth_ out loading when the requests length may be volatile. I dislike flashing that may occur with loading states when network requests are between fast and slow. This is an exploration into resolving that.
+Exploring strategies to _smooth_ out loading when the requests length may be volatile. I dislike flashing that may occur with loading states when network requests are between fast and slow. This is an exploration into resolving that frustration.
 
 Potential use cases:
 
